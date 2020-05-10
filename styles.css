@@ -1,0 +1,55 @@
+#messageViewContainer {
+  background-color: #2d3436;
+}
+
+#conversationListId .ReactVirtualized__Grid__innerScrollContainer .msg-item > div .item-title .item-title-name span[style] {
+  color: #dfe6e9 !important;
+}
+
+#conversationListId .ReactVirtualized__Grid__innerScrollContainer .msg-item > div {
+  background-color: #2d3436;
+}
+#header,
+#sidebarNav,
+#user-name,
+.chat-onboard,
+.conv-container,
+.filter-tags-container,
+.filter-tags-container,
+.title.header-title.group-title.user,
+#chatInput,
+#chatInputTools,
+.chat-input__content,
+#contact-search {
+  background-color: #2d3436 !important;
+  color: #dfe6e9 !important;
+}
+.zmenu-item:hover {
+  color: #0984e3 !important;
+}
+#loading-page {
+  background-color: #2d3436 !important;
+  color: #dfe6e9 !important;
+}
+.popover-v2[style],
+.zmenu-sub .zmenu-body .content-only
+.zmenu-body .zmenu-item,
+.zmenu-sub .zmenu-body {
+  background-color: #2d3436 !important;
+  color: #dfe6e9 !important;
+}
+.zmenu-item {
+  background-color: #2d3436 !important;
+  color: #dfe6e9 !important;
+}
+.slideshow__page__text__subtitle,
+.chat-onboard > div[style],
+.chat-onboard > div:first-child > div:first-child[style]
+.chat-onboard span[data-translate-inner="STR_WELCOME_SCREEN_SUBTITLE_0"][style],
+.chat-onboard span[data-translate-inner="STR_WELCOME_SCREEN_MAIN_TITLE"][style],
+.chat-onboard span[data-translate-inner="STR_WELCOME_SCREEN_MAIN_SUBTITLE"][style] {
+  color: #dfe6e9 !important;
+}
+.view__banner--mutualGroup {
+  background-color: #fdcb6e !important;
+}
